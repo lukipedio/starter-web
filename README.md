@@ -14,3 +14,7 @@ Sample website with plenty of files for demos
 My deployment list
 
 ## Conclusions
+
+## Copyright
+
+2014
