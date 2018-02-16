@@ -2,7 +2,7 @@
 
 This repository is for showing how Git and GitHub work
 Add some more text.
-
+Then new changes from myfeature branch.
 Author L. Colombini
 
 ## Purpose
